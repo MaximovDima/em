@@ -1,0 +1,14 @@
+.header {
+	height: 100px;
+	width: 200px;
+	margin: auto;
+	text-align: center;
+}
+.registr {
+	width: 200px;
+	margin: auto;
+}
+.buttons {
+	padding: 10px;
+	margin: auto;
+}
